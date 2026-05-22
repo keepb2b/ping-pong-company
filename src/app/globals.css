@@ -1,0 +1,80 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-brand-blue: #0b5cab;
+  --color-brand-blue-dark: #084a8a;
+  --color-brand-orange: #f28c28;
+  --color-brand-orange-hover: #e07d1f;
+  --color-surface: #f7f9fc;
+  --color-ink: #1a1a2e;
+  --color-muted: #5c6478;
+  --font-sans: 'Noto Sans JP', 'Hiragino Sans', sans-serif;
+  --font-display: 'Barlow', 'Noto Sans JP', sans-serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+
+  body {
+    @apply bg-white text-ink antialiased;
+    font-family: var(--font-sans);
+  }
+}
+
+@layer components {
+  .container-site {
+    @apply mx-auto w-full max-w-[1200px] px-4 md:px-6 lg:px-8;
+  }
+
+  .section-en-title {
+    font-family: var(--font-display);
+    @apply text-3xl font-semibold italic tracking-wide text-brand-blue md:text-4xl lg:text-5xl;
+  }
+
+  .section-ja-title {
+    @apply mt-1 text-sm font-bold text-brand-orange md:text-base;
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center justify-center rounded-sm bg-brand-orange px-8 py-4 text-sm font-bold text-white shadow-md transition hover:-translate-y-0.5 hover:bg-brand-orange-hover;
+  }
+
+  .btn-outline {
+    @apply inline-flex items-center justify-center rounded-sm border-2 border-brand-blue px-6 py-3 text-sm font-bold text-brand-blue transition hover:bg-brand-blue hover:text-white;
+  }
+
+  .card-hover {
+    @apply transition duration-300 hover:-translate-y-1 hover:shadow-lg;
+  }
+
+  .prose-site h2 {
+    @apply mb-4 mt-8 text-xl font-bold text-brand-blue;
+  }
+
+  .prose-site p {
+    @apply mb-4 leading-relaxed text-muted;
+  }
+
+  .prose-site ul {
+    @apply mb-4 list-disc space-y-2 pl-6 text-muted;
+  }
+
+  .prose-site strong {
+    @apply font-bold text-ink;
+  }
+}

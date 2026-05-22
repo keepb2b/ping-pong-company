@@ -1,0 +1,2770 @@
+﻿[
+    {
+        "source_url":  "https://coding-alive.jp/",
+        "local_route":  "/",
+        "page_title":  "コーディング外注、代行ならコーディングアライブ｜LP、ワードプレス構築、ECサイト制作の実績多数",
+        "page_type":  "home",
+        "parent_page":  "/",
+        "template_used":  "home"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animation/",
+        "local_route":  "/animation",
+        "page_title":  "アニメーション事例｜コーディングアライブ",
+        "page_type":  "archive",
+        "parent_page":  "/",
+        "template_used":  "animation-archive"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animation/p2042/",
+        "local_route":  "/animation/p2042",
+        "page_title":  "Three.jsを使用した背景運用の実例｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/animation/",
+        "template_used":  "animation-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animation/p2487/",
+        "local_route":  "/animation/p2487",
+        "page_title":  "Swiper.jsを使った、縦向きのループスライダー｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/animation/",
+        "template_used":  "animation-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animation/p2556/",
+        "local_route":  "/animation/p2556",
+        "page_title":  "クリックでオブジェクトが裏返るアニメーション｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/animation/",
+        "template_used":  "animation-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animation/p2561/",
+        "local_route":  "/animation/p2561",
+        "page_title":  "gsapでparalaxアニメーションをやって見ました｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/animation/",
+        "template_used":  "animation-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animation/p2581/",
+        "local_route":  "/animation/p2581",
+        "page_title":  "スクロールで要素が重なって見えるアニメーション（GSAP）｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/animation/",
+        "template_used":  "animation-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animation/p2584/",
+        "local_route":  "/animation/p2584",
+        "page_title":  "スクロールに合わせて要素が変化（GSAP）｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/animation/",
+        "template_used":  "animation-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animation/p2906/",
+        "local_route":  "/animation/p2906",
+        "page_title":  "css心臓の鼓動｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/animation/",
+        "template_used":  "animation-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animation/p2909/",
+        "local_route":  "/animation/p2909",
+        "page_title":  "css文書アニメーション｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/animation/",
+        "template_used":  "animation-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animation/p292/",
+        "local_route":  "/animation/p292",
+        "page_title":  "スライダーの動き｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/animation/",
+        "template_used":  "animation-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animation/p2925/",
+        "local_route":  "/animation/p2925",
+        "page_title":  "送信ボタン｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/animation/",
+        "template_used":  "animation-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animation/p3126/",
+        "local_route":  "/animation/p3126",
+        "page_title":  "反転するマウスポインター｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/animation/",
+        "template_used":  "animation-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animation/p3131/",
+        "local_route":  "/animation/p3131",
+        "page_title":  "Three.jsを用いたランダムな動きをする線の描画｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/animation/",
+        "template_used":  "animation-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animation/p3327/",
+        "local_route":  "/animation/p3327",
+        "page_title":  "動く線背景アニメーション｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/animation/",
+        "template_used":  "animation-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animation/p3330/",
+        "local_route":  "/animation/p3330",
+        "page_title":  "タイトル公開エフェクト｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/animation/",
+        "template_used":  "animation-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animation/p3338/",
+        "local_route":  "/animation/p3338",
+        "page_title":  "ディスクナビゲーション｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/animation/",
+        "template_used":  "animation-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animation/p3357/",
+        "local_route":  "/animation/p3357",
+        "page_title":  "光るタイトル｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/animation/",
+        "template_used":  "animation-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animation/p3361/",
+        "local_route":  "/animation/p3361",
+        "page_title":  "背景が広がるボタン｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/animation/",
+        "template_used":  "animation-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animation/p3363/",
+        "local_route":  "/animation/p3363",
+        "page_title":  "スタンプアニメーション｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/animation/",
+        "template_used":  "animation-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animation/p3366/",
+        "local_route":  "/animation/p3366",
+        "page_title":  "スタートボタン｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/animation/",
+        "template_used":  "animation-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animation/p3369/",
+        "local_route":  "/animation/p3369",
+        "page_title":  "テキストのぼかしトランジション｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/animation/",
+        "template_used":  "animation-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animation/p3374/",
+        "local_route":  "/animation/p3374",
+        "page_title":  "ボタンアニメーションまとめ｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/animation/",
+        "template_used":  "animation-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animation/p469/",
+        "local_route":  "/animation/p469",
+        "page_title":  "手書き風テキストアニメーション｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/animation/",
+        "template_used":  "animation-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animation/p503/",
+        "local_route":  "/animation/p503",
+        "page_title":  "テキストにホバーするとカーソルに画像が追従｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/animation/",
+        "template_used":  "animation-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animation/p507/",
+        "local_route":  "/animation/p507",
+        "page_title":  "アンケート画面がスクロール｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/animation/",
+        "template_used":  "animation-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animation/p510/",
+        "local_route":  "/animation/p510",
+        "page_title":  "メニューのホバーアニメーション｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/animation/",
+        "template_used":  "animation-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animation/p513/",
+        "local_route":  "/animation/p513",
+        "page_title":  "スクロールに応じたサークルアニメーション｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/animation/",
+        "template_used":  "animation-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animation/p517/",
+        "local_route":  "/animation/p517",
+        "page_title":  "ボールのランダムな動き｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/animation/",
+        "template_used":  "animation-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animation/p520/",
+        "local_route":  "/animation/p520",
+        "page_title":  "画像に基づいたドロップシャドウ｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/animation/",
+        "template_used":  "animation-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animation/p523/",
+        "local_route":  "/animation/p523",
+        "page_title":  "繋がった3つのコンテンツのアニメーション｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/animation/",
+        "template_used":  "animation-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animation/page/2/",
+        "local_route":  "/animation/page/2",
+        "page_title":  "アニメーション事例｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/animation/",
+        "template_used":  "animation-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animation/page/3/",
+        "local_route":  "/animation/page/3",
+        "page_title":  "アニメーション事例｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/animation/",
+        "template_used":  "animation-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animation/page/4/",
+        "local_route":  "/animation/page/4",
+        "page_title":  "アニメーション事例｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/animation/",
+        "template_used":  "animation-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animationcat/%e3%81%9d%e3%81%ae%e4%bb%96/",
+        "local_route":  "/animationcat/%e3%81%9d%e3%81%ae%e4%bb%96",
+        "page_title":  "アニメーション事例｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animationcat/%e3%81%9d%e3%81%ae%e4%bb%96/page/2/",
+        "local_route":  "/animationcat/%e3%81%9d%e3%81%ae%e4%bb%96/page/2",
+        "page_title":  "アニメーション事例｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animationcat/%e3%81%9d%e3%81%ae%e4%bb%96/page/3/",
+        "local_route":  "/animationcat/%e3%81%9d%e3%81%ae%e4%bb%96/page/3",
+        "page_title":  "アニメーション事例｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animationcat/%e3%81%9d%e3%81%ae%e4%bb%96/page/4/",
+        "local_route":  "/animationcat/%e3%81%9d%e3%81%ae%e4%bb%96/page/4",
+        "page_title":  "アニメーション事例｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animationcat/%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b3/",
+        "local_route":  "/animationcat/%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b3",
+        "page_title":  "アニメーション事例｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animationcat/%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b3/page/2/",
+        "local_route":  "/animationcat/%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b3/page/2",
+        "page_title":  "アニメーション事例｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animationcat/%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b3/page/3/",
+        "local_route":  "/animationcat/%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b3/page/3",
+        "page_title":  "アニメーション事例｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animationcat/%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b3/page/4/",
+        "local_route":  "/animationcat/%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b3/page/4",
+        "page_title":  "アニメーション事例｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animationcat/%e3%82%b9%e3%82%af%e3%83%ad%e3%83%bc%e3%83%ab/",
+        "local_route":  "/animationcat/%e3%82%b9%e3%82%af%e3%83%ad%e3%83%bc%e3%83%ab",
+        "page_title":  "アニメーション事例｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animationcat/%e3%82%b9%e3%82%af%e3%83%ad%e3%83%bc%e3%83%ab/page/2/",
+        "local_route":  "/animationcat/%e3%82%b9%e3%82%af%e3%83%ad%e3%83%bc%e3%83%ab/page/2",
+        "page_title":  "アニメーション事例｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animationcat/%e3%82%b9%e3%82%af%e3%83%ad%e3%83%bc%e3%83%ab/page/3/",
+        "local_route":  "/animationcat/%e3%82%b9%e3%82%af%e3%83%ad%e3%83%bc%e3%83%ab/page/3",
+        "page_title":  "アニメーション事例｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animationcat/%e3%82%b9%e3%82%af%e3%83%ad%e3%83%bc%e3%83%ab/page/4/",
+        "local_route":  "/animationcat/%e3%82%b9%e3%82%af%e3%83%ad%e3%83%bc%e3%83%ab/page/4",
+        "page_title":  "アニメーション事例｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animationcat/%e3%82%b9%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc/",
+        "local_route":  "/animationcat/%e3%82%b9%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc",
+        "page_title":  "アニメーション事例｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animationcat/%e3%82%b9%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc/page/2/",
+        "local_route":  "/animationcat/%e3%82%b9%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc/page/2",
+        "page_title":  "アニメーション事例｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animationcat/%e3%83%91%e3%83%a9%e3%83%a9%e3%83%83%e3%82%af%e3%82%b9/",
+        "local_route":  "/animationcat/%e3%83%91%e3%83%a9%e3%83%a9%e3%83%83%e3%82%af%e3%82%b9",
+        "page_title":  "アニメーション事例｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animationcat/%e3%83%9c%e3%82%bf%e3%83%b3/",
+        "local_route":  "/animationcat/%e3%83%9c%e3%82%bf%e3%83%b3",
+        "page_title":  "アニメーション事例｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animationcat/%e3%83%9c%e3%82%bf%e3%83%b3/page/2/",
+        "local_route":  "/animationcat/%e3%83%9c%e3%82%bf%e3%83%b3/page/2",
+        "page_title":  "アニメーション事例｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animationcat/%e3%83%9c%e3%82%bf%e3%83%b3/page/3/",
+        "local_route":  "/animationcat/%e3%83%9c%e3%82%bf%e3%83%b3/page/3",
+        "page_title":  "アニメーション事例｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animationcat/%e3%83%9e%e3%82%a6%e3%82%b9%e3%83%9d%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%bc/",
+        "local_route":  "/animationcat/%e3%83%9e%e3%82%a6%e3%82%b9%e3%83%9d%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%bc",
+        "page_title":  "アニメーション事例｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animationcat/%e8%83%8c%e6%99%af/",
+        "local_route":  "/animationcat/%e8%83%8c%e6%99%af",
+        "page_title":  "アニメーション事例｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animationcat/%e8%83%8c%e6%99%af/page/2/",
+        "local_route":  "/animationcat/%e8%83%8c%e6%99%af/page/2",
+        "page_title":  "アニメーション事例｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animationcat/%e8%a6%8b%e5%87%ba%e3%81%97/",
+        "local_route":  "/animationcat/%e8%a6%8b%e5%87%ba%e3%81%97",
+        "page_title":  "アニメーション事例｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animationcat/%e8%a6%8b%e5%87%ba%e3%81%97/page/2/",
+        "local_route":  "/animationcat/%e8%a6%8b%e5%87%ba%e3%81%97/page/2",
+        "page_title":  "アニメーション事例｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animationcat/%e8%a6%8b%e5%87%ba%e3%81%97/page/3/",
+        "local_route":  "/animationcat/%e8%a6%8b%e5%87%ba%e3%81%97/page/3",
+        "page_title":  "アニメーション事例｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/animationcat/%e8%a6%8b%e5%87%ba%e3%81%97/page/4/",
+        "local_route":  "/animationcat/%e8%a6%8b%e5%87%ba%e3%81%97/page/4",
+        "page_title":  "アニメーション事例｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/",
+        "local_route":  "/blog",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "archive",
+        "parent_page":  "/",
+        "template_used":  "blog-archive"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p1058/",
+        "local_route":  "/blog/p1058",
+        "page_title":  "チームメンバーでワーケーションに行って来ました｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p1087",
+        "local_route":  "/blog/p1087",
+        "page_title":  "「管理人にだけフォームメールが届かない！？」外部メールサーバを使うと、同一ドメイン宛てにフォームメールが飛ばない問題を紐解く｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p1087/",
+        "local_route":  "/blog/p1087",
+        "page_title":  "「管理人にだけフォームメールが届かない！？」外部メールサーバを使うと、同一ドメイン宛てにフォームメールが飛ばない問題を紐解く｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p1100",
+        "local_route":  "/blog/p1100",
+        "page_title":  "フォームからShopifyの「顧客管理」に顧客情報を追加する｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p1100/",
+        "local_route":  "/blog/p1100",
+        "page_title":  "フォームからShopifyの「顧客管理」に顧客情報を追加する｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p1138",
+        "local_route":  "/blog/p1138",
+        "page_title":  "Shopifyの商品ページに入力形式のオプションを追加する｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p1138/",
+        "local_route":  "/blog/p1138",
+        "page_title":  "Shopifyの商品ページに入力形式のオプションを追加する｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p1284",
+        "local_route":  "/blog/p1284",
+        "page_title":  "Shopify、Makeshop、カラーミーショップ、ecforce、各ECカートシステムのメリットデメリットを開発側視点で徹底比較！｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p1284/",
+        "local_route":  "/blog/p1284",
+        "page_title":  "Shopify、Makeshop、カラーミーショップ、ecforce、各ECカートシステムのメリットデメリットを開発側視点で徹底比較！｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p1419",
+        "local_route":  "/blog/p1419",
+        "page_title":  "WordPressのWAF設定を簡単に！NinjaFirewall (WP Edition) 初期設定｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p1419/",
+        "local_route":  "/blog/p1419",
+        "page_title":  "WordPressのWAF設定を簡単に！NinjaFirewall (WP Edition) 初期設定｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p1440/",
+        "local_route":  "/blog/p1440",
+        "page_title":  "ウェブ自動テストのCypress｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p1460",
+        "local_route":  "/blog/p1460",
+        "page_title":  "【超訳】Reactとは？メリットとデメリット｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p1460/",
+        "local_route":  "/blog/p1460",
+        "page_title":  "【超訳】Reactとは？メリットとデメリット｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p1469",
+        "local_route":  "/blog/p1469",
+        "page_title":  "フォームのメールが届かない時に有効！SPFレコードの書き方｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p1469/",
+        "local_route":  "/blog/p1469",
+        "page_title":  "フォームのメールが届かない時に有効！SPFレコードの書き方｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p1482",
+        "local_route":  "/blog/p1482",
+        "page_title":  "【超訳】Next.jsとは？Reactとの関係性、メリットとデメリット｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p1482/",
+        "local_route":  "/blog/p1482",
+        "page_title":  "【超訳】Next.jsとは？Reactとの関係性、メリットとデメリット｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p1511/",
+        "local_route":  "/blog/p1511",
+        "page_title":  "コーディングアライブで一緒に働く仲間を募集しています！｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p1552",
+        "local_route":  "/blog/p1552",
+        "page_title":  "Web制作/デザイン会社のコーディング・システム開発部門は外注活用の時代へ｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p1552/",
+        "local_route":  "/blog/p1552",
+        "page_title":  "Web制作/デザイン会社のコーディング・システム開発部門は外注活用の時代へ｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p1625",
+        "local_route":  "/blog/p1625",
+        "page_title":  "PHPやWordPressをアップデートしないとどうなる？｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p1625/",
+        "local_route":  "/blog/p1625",
+        "page_title":  "PHPやWordPressをアップデートしないとどうなる？｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p1713",
+        "local_route":  "/blog/p1713",
+        "page_title":  "古いPHPMailerからうまくメールが届かなくなった時に試したい「Sender設定」｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p1713/",
+        "local_route":  "/blog/p1713",
+        "page_title":  "古いPHPMailerからうまくメールが届かなくなった時に試したい「Sender設定」｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p1836",
+        "local_route":  "/blog/p1836",
+        "page_title":  "【Shopify開発が捗る！】ShopifyCLI開発環境構築の流れをご紹介｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p1836/",
+        "local_route":  "/blog/p1836",
+        "page_title":  "【Shopify開発が捗る！】ShopifyCLI開発環境構築の流れをご紹介｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p1902",
+        "local_route":  "/blog/p1902",
+        "page_title":  "良コスパで始められるECカートシステム4選｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p1902/",
+        "local_route":  "/blog/p1902",
+        "page_title":  "良コスパで始められるECカートシステム4選｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p2027/",
+        "local_route":  "/blog/p2027",
+        "page_title":  "お手軽にWordPressセキュリティ対策！SiteGuard WP Pluginプラグインのご紹介｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p2218/",
+        "local_route":  "/blog/p2218",
+        "page_title":  "【送信したメールが届いていないかも？】2024年2月1日にGmailの仕様が変更されています｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p2249/",
+        "local_route":  "/blog/p2249",
+        "page_title":  "日本とベトナムの架け橋としてベトナム人ブリッジSEの仕事について｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p2273/",
+        "local_route":  "/blog/p2273",
+        "page_title":  "Shopifyで商品1点ごとに送料を加算する設定方法｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p2315/",
+        "local_route":  "/blog/p2315",
+        "page_title":  "デザイナーが覚えておきたい、アニメーション指示が出しやすくなるCSS3選｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p2402",
+        "local_route":  "/blog/p2402",
+        "page_title":  "【2024年】UIパーツのデザインに役立つ参考サイト9選｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p2402/",
+        "local_route":  "/blog/p2402",
+        "page_title":  "【2024年】UIパーツのデザインに役立つ参考サイト9選｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p2553",
+        "local_route":  "/blog/p2553",
+        "page_title":  "【リソース不足に検討したい①】コーディング代行業社を利用する4つのメリット｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p2553/",
+        "local_route":  "/blog/p2553",
+        "page_title":  "【リソース不足に検討したい①】コーディング代行業社を利用する4つのメリット｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p2687/",
+        "local_route":  "/blog/p2687",
+        "page_title":  "【『売れる仕組み』を提供するECカート！？】ecforceについてご紹介！｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p2690/",
+        "local_route":  "/blog/p2690",
+        "page_title":  "【リソース不足に検討したい②】コーディング代行業社を選ぶコツ4選｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p2944/",
+        "local_route":  "/blog/p2944",
+        "page_title":  "ShopifyとWordPressをECで使う場合の比較をしてみよう｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p3041/",
+        "local_route":  "/blog/p3041",
+        "page_title":  "コーディングアライブのサービス紹介・ご相談から納品までフロー｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p3091/",
+        "local_route":  "/blog/p3091",
+        "page_title":  "自身の体験による多言語化サイトを制作する際の10の注意点｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p3138/",
+        "local_route":  "/blog/p3138",
+        "page_title":  "EC CUBE構築、Shopify構築、Makeshop構築などのECサイトの事例紹介｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p3152/",
+        "local_route":  "/blog/p3152",
+        "page_title":  "Webアプリの開発事例を紹介｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p3165/",
+        "local_route":  "/blog/p3165",
+        "page_title":  "採用特設サイトのコーディング事例を集めました。｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p3244/",
+        "local_route":  "/blog/p3244",
+        "page_title":  "コーディングアライブでのお見積サンプルを作りました｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p3302/",
+        "local_route":  "/blog/p3302",
+        "page_title":  "デザイナーさん必見！下層ページのデザイン制作もコーディングアライブでお引き受けします｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p3426/",
+        "local_route":  "/blog/p3426",
+        "page_title":  "AIO時代のフロントエンド設計──AIに正しく解釈されるマークアップとは｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p3450/",
+        "local_route":  "/blog/p3450",
+        "page_title":  "【コーディング外注依頼時チェックシート】初めてコーディング外注に相談する方へ｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p370/",
+        "local_route":  "/blog/p370",
+        "page_title":  "弊社オフィスをご案内します♪♪｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p627",
+        "local_route":  "/blog/p627",
+        "page_title":  "オフショア開発では、シンプルな日本語を使おう｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p627/",
+        "local_route":  "/blog/p627",
+        "page_title":  "オフショア開発では、シンプルな日本語を使おう｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p661/",
+        "local_route":  "/blog/p661",
+        "page_title":  "クラウドフレアを使えば、Webサイトがダウンしない！｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p680/",
+        "local_route":  "/blog/p680",
+        "page_title":  "DDos攻撃から自社Webサイトを守るには？｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p769/",
+        "local_route":  "/blog/p769",
+        "page_title":  "決済サービス「Stripe」を希望仕様通りにカスタマイズするには？｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p892/",
+        "local_route":  "/blog/p892",
+        "page_title":  "記号の字詰めを整えるWebフォント「Yaku Han JP」の使い方｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p909/",
+        "local_route":  "/blog/p909",
+        "page_title":  "商談サクサク！喋れる技術者がご相談に応じます｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p929/",
+        "local_route":  "/blog/p929",
+        "page_title":  "Internet Explorer サポート終了｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p948",
+        "local_route":  "/blog/p948",
+        "page_title":  "Gmailにだけメールが届かない、そんな時は？｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p948/",
+        "local_route":  "/blog/p948",
+        "page_title":  "Gmailにだけメールが届かない、そんな時は？｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/p999/",
+        "local_route":  "/blog/p999",
+        "page_title":  "Internet Explorerがいよいよ完全終了。なぜ重要なのか?｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/page/2/",
+        "local_route":  "/blog/page/2",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/page/3/",
+        "local_route":  "/blog/page/3",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/page/4/",
+        "local_route":  "/blog/page/4",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blog/page/5/",
+        "local_route":  "/blog/page/5",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/%e3%82%a2%e3%83%8b%e3%83%a1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3/",
+        "local_route":  "/blogcat/%e3%82%a2%e3%83%8b%e3%83%a1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/%e3%82%a2%e3%83%a9%e3%82%a4%e3%83%96%e7%b4%b9%e4%bb%8b/",
+        "local_route":  "/blogcat/%e3%82%a2%e3%83%a9%e3%82%a4%e3%83%96%e7%b4%b9%e4%bb%8b",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/%e3%82%a2%e3%83%a9%e3%82%a4%e3%83%96%e7%b4%b9%e4%bb%8b/page/2/",
+        "local_route":  "/blogcat/%e3%82%a2%e3%83%a9%e3%82%a4%e3%83%96%e7%b4%b9%e4%bb%8b/page/2",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/%e3%82%a2%e3%83%a9%e3%82%a4%e3%83%96%e7%b4%b9%e4%bb%8b/page/3/",
+        "local_route":  "/blogcat/%e3%82%a2%e3%83%a9%e3%82%a4%e3%83%96%e7%b4%b9%e4%bb%8b/page/3",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/%e3%82%a2%e3%83%a9%e3%82%a4%e3%83%96%e7%b4%b9%e4%bb%8b/page/4/",
+        "local_route":  "/blogcat/%e3%82%a2%e3%83%a9%e3%82%a4%e3%83%96%e7%b4%b9%e4%bb%8b/page/4",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89%e3%83%95%e3%83%ac%e3%82%a2%ef%bc%88cloudflare%ef%bc%89/",
+        "local_route":  "/blogcat/%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89%e3%83%95%e3%83%ac%e3%82%a2%ef%bc%88cloudflare%ef%bc%89",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89%e3%83%95%e3%83%ac%e3%82%a2%ef%bc%88cloudflare%ef%bc%89/page/2/",
+        "local_route":  "/blogcat/%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89%e3%83%95%e3%83%ac%e3%82%a2%ef%bc%88cloudflare%ef%bc%89/page/2",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/%e3%82%b3%e3%83%bc%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0%e6%a5%ad%e5%8b%99/",
+        "local_route":  "/blogcat/%e3%82%b3%e3%83%bc%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0%e6%a5%ad%e5%8b%99",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/%e3%82%b3%e3%83%bc%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0%e6%a5%ad%e5%8b%99/page/2/",
+        "local_route":  "/blogcat/%e3%82%b3%e3%83%bc%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0%e6%a5%ad%e5%8b%99/page/2",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/%e3%82%b3%e3%83%bc%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0%e6%a5%ad%e5%8b%99/page/3/",
+        "local_route":  "/blogcat/%e3%82%b3%e3%83%bc%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0%e6%a5%ad%e5%8b%99/page/3",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/%e3%82%b3%e3%83%bc%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0%e6%a5%ad%e5%8b%99/page/4/",
+        "local_route":  "/blogcat/%e3%82%b3%e3%83%bc%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0%e6%a5%ad%e5%8b%99/page/4",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/%e3%82%b5%e3%83%bc%e3%83%90%e3%83%bc%e4%bf%9d%e5%ae%88/",
+        "local_route":  "/blogcat/%e3%82%b5%e3%83%bc%e3%83%90%e3%83%bc%e4%bf%9d%e5%ae%88",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/%e3%82%b5%e3%83%bc%e3%83%90%e3%83%bc%e4%bf%9d%e5%ae%88/page/2/",
+        "local_route":  "/blogcat/%e3%82%b5%e3%83%bc%e3%83%90%e3%83%bc%e4%bf%9d%e5%ae%88/page/2",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/%e3%82%b5%e3%83%bc%e3%83%90%e3%83%bc%e4%bf%9d%e5%ae%88/page/3/",
+        "local_route":  "/blogcat/%e3%82%b5%e3%83%bc%e3%83%90%e3%83%bc%e4%bf%9d%e5%ae%88/page/3",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/%e3%82%b5%e3%83%bc%e3%83%90%e3%83%bc%e4%bf%9d%e5%ae%88/page/4/",
+        "local_route":  "/blogcat/%e3%82%b5%e3%83%bc%e3%83%90%e3%83%bc%e4%bf%9d%e5%ae%88/page/4",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3%e5%af%be%e7%ad%96/",
+        "local_route":  "/blogcat/%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3%e5%af%be%e7%ad%96",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/%e3%83%89%e3%83%a1%e3%82%a4%e3%83%b3/",
+        "local_route":  "/blogcat/%e3%83%89%e3%83%a1%e3%82%a4%e3%83%b3",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/%e3%83%a1%e3%83%bc%e3%83%ab%e3%83%88%e3%83%a9%e3%83%96%e3%83%ab/",
+        "local_route":  "/blogcat/%e3%83%a1%e3%83%bc%e3%83%ab%e3%83%88%e3%83%a9%e3%83%96%e3%83%ab",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/%e3%83%a1%e3%83%bc%e3%83%ab%e3%83%88%e3%83%a9%e3%83%96%e3%83%ab/page/2/",
+        "local_route":  "/blogcat/%e3%83%a1%e3%83%bc%e3%83%ab%e3%83%88%e3%83%a9%e3%83%96%e3%83%ab/page/2",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/%e3%83%a1%e3%83%bc%e3%83%ab%e3%83%88%e3%83%a9%e3%83%96%e3%83%ab/page/3/",
+        "local_route":  "/blogcat/%e3%83%a1%e3%83%bc%e3%83%ab%e3%83%88%e3%83%a9%e3%83%96%e3%83%ab/page/3",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/%e3%83%a1%e3%83%bc%e3%83%ab%e3%83%88%e3%83%a9%e3%83%96%e3%83%ab/page/4/",
+        "local_route":  "/blogcat/%e3%83%a1%e3%83%bc%e3%83%ab%e3%83%88%e3%83%a9%e3%83%96%e3%83%ab/page/4",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/%e5%a4%9a%e8%a8%80%e8%aa%9e%e3%82%b5%e3%82%a4%e3%83%88/",
+        "local_route":  "/blogcat/%e5%a4%9a%e8%a8%80%e8%aa%9e%e3%82%b5%e3%82%a4%e3%83%88",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/%e8%a6%81%e4%bb%b6%e5%ae%9a%e7%be%a9-pm%e4%bb%a3%e8%a1%8c/",
+        "local_route":  "/blogcat/%e8%a6%81%e4%bb%b6%e5%ae%9a%e7%be%a9-pm%e4%bb%a3%e8%a1%8c",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/%e8%a6%81%e4%bb%b6%e5%ae%9a%e7%be%a9-pm%e4%bb%a3%e8%a1%8c/page/2/",
+        "local_route":  "/blogcat/%e8%a6%81%e4%bb%b6%e5%ae%9a%e7%be%a9-pm%e4%bb%a3%e8%a1%8c/page/2",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/%e8%a6%81%e4%bb%b6%e5%ae%9a%e7%be%a9-pm%e4%bb%a3%e8%a1%8c/page/3/",
+        "local_route":  "/blogcat/%e8%a6%81%e4%bb%b6%e5%ae%9a%e7%be%a9-pm%e4%bb%a3%e8%a1%8c/page/3",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/%e8%a6%81%e4%bb%b6%e5%ae%9a%e7%be%a9-pm%e4%bb%a3%e8%a1%8c/page/4/",
+        "local_route":  "/blogcat/%e8%a6%81%e4%bb%b6%e5%ae%9a%e7%be%a9-pm%e4%bb%a3%e8%a1%8c/page/4",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/aio/",
+        "local_route":  "/blogcat/aio",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/aws/",
+        "local_route":  "/blogcat/aws",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/communication/",
+        "local_route":  "/blogcat/communication",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/communication/page/2/",
+        "local_route":  "/blogcat/communication/page/2",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/communication/page/3/",
+        "local_route":  "/blogcat/communication/page/3",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/communication/page/4/",
+        "local_route":  "/blogcat/communication/page/4",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/ec%e3%82%b5%e3%82%a4%e3%83%88%e6%a7%8b%e7%af%89/",
+        "local_route":  "/blogcat/ec%e3%82%b5%e3%82%a4%e3%83%88%e6%a7%8b%e7%af%89",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/ec%e3%82%b5%e3%82%a4%e3%83%88%e6%a7%8b%e7%af%89/page/2/",
+        "local_route":  "/blogcat/ec%e3%82%b5%e3%82%a4%e3%83%88%e6%a7%8b%e7%af%89/page/2",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/ec%e3%82%b5%e3%82%a4%e3%83%88%e6%a7%8b%e7%af%89/page/3/",
+        "local_route":  "/blogcat/ec%e3%82%b5%e3%82%a4%e3%83%88%e6%a7%8b%e7%af%89/page/3",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/ec%e3%82%b5%e3%82%a4%e3%83%88%e6%a7%8b%e7%af%89/page/4/",
+        "local_route":  "/blogcat/ec%e3%82%b5%e3%82%a4%e3%83%88%e6%a7%8b%e7%af%89/page/4",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/stripe%ef%bc%88%e3%82%b9%e3%83%88%e3%83%a9%e3%82%a4%e3%83%97%ef%bc%89/",
+        "local_route":  "/blogcat/stripe%ef%bc%88%e3%82%b9%e3%83%88%e3%83%a9%e3%82%a4%e3%83%97%ef%bc%89",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/ui-ux/",
+        "local_route":  "/blogcat/ui-ux",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/web%e3%82%a2%e3%83%97%e3%83%aa%e9%96%8b%e7%99%ba/",
+        "local_route":  "/blogcat/web%e3%82%a2%e3%83%97%e3%83%aa%e9%96%8b%e7%99%ba",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/wordpress%e3%82%ab%e3%82%b9%e3%82%bf%e3%83%9e%e3%82%a4%e3%82%ba/",
+        "local_route":  "/blogcat/wordpress%e3%82%ab%e3%82%b9%e3%82%bf%e3%83%9e%e3%82%a4%e3%82%ba",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/blogcat/wordpress%e3%82%ab%e3%82%b9%e3%82%bf%e3%83%9e%e3%82%a4%e3%82%ba/page/2/",
+        "local_route":  "/blogcat/wordpress%e3%82%ab%e3%82%b9%e3%82%bf%e3%83%9e%e3%82%a4%e3%82%ba/page/2",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/blog/",
+        "template_used":  "blog-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/company/",
+        "local_route":  "/company",
+        "page_title":  "会社概要｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "company"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/contact/",
+        "local_route":  "/contact",
+        "page_title":  "お問い合わせ・ご相談｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "contact"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/faq/",
+        "local_route":  "/faq",
+        "page_title":  "コーディングに関するよくあるご質問｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "faq"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/fee/",
+        "local_route":  "/fee",
+        "page_title":  "料金｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "fee"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/our-strength/",
+        "local_route":  "/our-strength",
+        "page_title":  "コーディングアライブの強み。多数のコーディング、Webサイト開発実績あり",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "our-strength"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/privacy/",
+        "local_route":  "/privacy",
+        "page_title":  "プライバシーポリシー｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "privacy"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/services/",
+        "local_route":  "/services",
+        "page_title":  "ECサイト制作、ワードプレス構築などサービス一覧｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "services"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/staff/",
+        "local_route":  "/staff",
+        "page_title":  "スタッフ紹介｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "staff"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/staff/p1927/",
+        "local_route":  "/staff/p1927",
+        "page_title":  "伊藤 直実｜スタッフ紹介｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/staff/p2101/",
+        "local_route":  "/staff/p2101",
+        "page_title":  "Pham Thi Giang｜スタッフ紹介｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/staff/p2120/",
+        "local_route":  "/staff/p2120",
+        "page_title":  "夏 逸庭｜スタッフ紹介｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/staff/p3463/",
+        "local_route":  "/staff/p3463",
+        "page_title":  "五十嵐 麟太郎｜スタッフ紹介｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/staff/p856/",
+        "local_route":  "/staff/p856",
+        "page_title":  "石川 理穂｜スタッフ紹介｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/staff/p913/",
+        "local_route":  "/staff/p913",
+        "page_title":  "玉木 柚衣｜スタッフ紹介｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/staff/p991/",
+        "local_route":  "/staff/p991",
+        "page_title":  "Fernando Souza｜スタッフ紹介｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/staff/page/2/",
+        "local_route":  "/staff/page/2",
+        "page_title":  "スタッフ紹介｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/staff/page/3/",
+        "local_route":  "/staff/page/3",
+        "page_title":  "スタッフ紹介｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/staff/page/4/",
+        "local_route":  "/staff/page/4",
+        "page_title":  "スタッフ紹介｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/tag/%e6%96%99%e9%87%91/",
+        "local_route":  "/tag/%e6%96%99%e9%87%91",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/tag/cloudflare/",
+        "local_route":  "/tag/cloudflare",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/tag/ddos%e6%94%bb%e6%92%83/",
+        "local_route":  "/tag/ddos%e6%94%bb%e6%92%83",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/tag/offshore/",
+        "local_route":  "/tag/offshore",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/tag/shopify/",
+        "local_route":  "/tag/shopify",
+        "page_title":  "ブログ｜コーディングアライブ",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/",
+        "local_route":  "/work",
+        "page_title":  "コーディング実績｜コーディングアライブ",
+        "page_type":  "archive",
+        "parent_page":  "/",
+        "template_used":  "work-archive"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/%e3%82%a2%e3%83%97%e3%83%aa%e9%96%8b%e7%99%ba/",
+        "local_route":  "/work/%e3%82%a2%e3%83%97%e3%83%aa%e9%96%8b%e7%99%ba",
+        "page_title":  "アプリ開発コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/ai/",
+        "local_route":  "/work/ai",
+        "page_title":  "AIコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/cloudflare/",
+        "local_route":  "/work/cloudflare",
+        "page_title":  "Cloudflare設定＆保守コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/cloudflare/page/2/",
+        "local_route":  "/work/cloudflare/page/2",
+        "page_title":  "Cloudflare設定＆保守コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/cloudflare/page/3/",
+        "local_route":  "/work/cloudflare/page/3",
+        "page_title":  "Cloudflare設定＆保守コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/colorme/",
+        "local_route":  "/work/colorme",
+        "page_title":  "カラーミーショップコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/colorme/page/2/",
+        "local_route":  "/work/colorme/page/2",
+        "page_title":  "カラーミーショップコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/colorme/page/3/",
+        "local_route":  "/work/colorme/page/3",
+        "page_title":  "カラーミーショップコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/eccube/",
+        "local_route":  "/work/eccube",
+        "page_title":  "EC-CUBEコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/eccube/page/2/",
+        "local_route":  "/work/eccube/page/2",
+        "page_title":  "EC-CUBEコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/eccube/page/3/",
+        "local_route":  "/work/eccube/page/3",
+        "page_title":  "EC-CUBEコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/ecforce/",
+        "local_route":  "/work/ecforce",
+        "page_title":  "ecforceコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/headless-cms/",
+        "local_route":  "/work/headless-cms",
+        "page_title":  "ヘッドレスCMSコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/headless-cms/page/2/",
+        "local_route":  "/work/headless-cms/page/2",
+        "page_title":  "ヘッドレスCMSコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/landing-page/",
+        "local_route":  "/work/landing-page",
+        "page_title":  "ランディングページコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/landing-page/page/2/",
+        "local_route":  "/work/landing-page/page/2",
+        "page_title":  "ランディングページコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/landing-page/page/3/",
+        "local_route":  "/work/landing-page/page/3",
+        "page_title":  "ランディングページコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/landing-page/page/4/",
+        "local_route":  "/work/landing-page/page/4",
+        "page_title":  "ランディングページコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/makeshop/",
+        "local_route":  "/work/makeshop",
+        "page_title":  "Makeshopコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/makeshop/page/2/",
+        "local_route":  "/work/makeshop/page/2",
+        "page_title":  "Makeshopコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/makeshop/page/3/",
+        "local_route":  "/work/makeshop/page/3",
+        "page_title":  "Makeshopコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/makeshop/page/4/",
+        "local_route":  "/work/makeshop/page/4",
+        "page_title":  "Makeshopコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/member/",
+        "local_route":  "/work/member",
+        "page_title":  "会員サイト開発コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/movable-type/",
+        "local_route":  "/work/movable-type",
+        "page_title":  "MovableTypeコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/multilingual/",
+        "local_route":  "/work/multilingual",
+        "page_title":  "多言語サイト制作コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/multilingual/page/2/",
+        "local_route":  "/work/multilingual/page/2",
+        "page_title":  "多言語サイト制作コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/multilingual/page/3/",
+        "local_route":  "/work/multilingual/page/3",
+        "page_title":  "多言語サイト制作コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/multilingual/page/4/",
+        "local_route":  "/work/multilingual/page/4",
+        "page_title":  "多言語サイト制作コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p1010/",
+        "local_route":  "/work/p1010",
+        "page_title":  "TAION様 ECサイト｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p1012/",
+        "local_route":  "/work/p1012",
+        "page_title":  "DUALISM様 ECサイト｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p1158/",
+        "local_route":  "/work/p1158",
+        "page_title":  "ALIVE VIETNAM コーポレートサイト｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p1227/",
+        "local_route":  "/work/p1227",
+        "page_title":  "コクヨ株式会社様  KAKIKATA LIBRARYサイト｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p1312/",
+        "local_route":  "/work/p1312",
+        "page_title":  "Atelier 10mois様 ECサイト｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p1373/",
+        "local_route":  "/work/p1373",
+        "page_title":  "中華食材専門卸ヤマヤ様 ECサイト｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p1395/",
+        "local_route":  "/work/p1395",
+        "page_title":  "OLYMPIA様 Webサイト｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p144/",
+        "local_route":  "/work/p144",
+        "page_title":  "THE NORTH FACE 様 - Letter Seed Magazeen　LP｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p145/",
+        "local_route":  "/work/p145",
+        "page_title":  "THE NORTH FACE 様 - Window　コーポレートサイト｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p1578/",
+        "local_route":  "/work/p1578",
+        "page_title":  "くつろぎ屋様 ECサイト｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p1602/",
+        "local_route":  "/work/p1602",
+        "page_title":  "景品広場様 ECサイト｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p1614/",
+        "local_route":  "/work/p1614",
+        "page_title":  "株式会社水野鞄店様 ECサイト｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p1630/",
+        "local_route":  "/work/p1630",
+        "page_title":  "株式会社 石田屋様 ECサイト｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p1648/",
+        "local_route":  "/work/p1648",
+        "page_title":  "株式会社まきやす様 ECサイト｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p1663/",
+        "local_route":  "/work/p1663",
+        "page_title":  "大洞印刷株式会社様 ECサイト｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p2318/",
+        "local_route":  "/work/p2318",
+        "page_title":  "TRUNK様 コーポレートサイト｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p2337/",
+        "local_route":  "/work/p2337",
+        "page_title":  "カーレポ様 Choice! LP｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p2365/",
+        "local_route":  "/work/p2365",
+        "page_title":  "セレモニー鈴正様 コーポレートサイト｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p2375/",
+        "local_route":  "/work/p2375",
+        "page_title":  "安藤歯科医院様 コーポレートサイト｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p2404/",
+        "local_route":  "/work/p2404",
+        "page_title":  "成島建設様 コーポレートサイト｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p2462/",
+        "local_route":  "/work/p2462",
+        "page_title":  "東海廣告株式会社様　コーポレートサイト｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p2466/",
+        "local_route":  "/work/p2466",
+        "page_title":  "株式会社ジェイテクトハイテック様　コーポレートサイト｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p2468/",
+        "local_route":  "/work/p2468",
+        "page_title":  "坂本印刷株式会社様　コーポレートサイト｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p2472/",
+        "local_route":  "/work/p2472",
+        "page_title":  "伊藤金属工業株式会社｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p2474/",
+        "local_route":  "/work/p2474",
+        "page_title":  "交響農園 屋久島センバスビレッジ様｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p2478/",
+        "local_route":  "/work/p2478",
+        "page_title":  "フレスコ税理士法人｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p2480/",
+        "local_route":  "/work/p2480",
+        "page_title":  "ロートベトナム様YAKUZEN ブランドサイト｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p2482/",
+        "local_route":  "/work/p2482",
+        "page_title":  "大橋運輸株式会社様　コーポレートサイト｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p2484/",
+        "local_route":  "/work/p2484",
+        "page_title":  "｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p2491/",
+        "local_route":  "/work/p2491",
+        "page_title":  "原田車両設計株式会社様　コーポレートサイト｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p2494",
+        "local_route":  "/work/p2494",
+        "page_title":  "スカイライト コンサルティング株式会社様　サービスサイト｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p2494/",
+        "local_route":  "/work/p2494",
+        "page_title":  "スカイライト コンサルティング株式会社様　サービスサイト｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p2502/",
+        "local_route":  "/work/p2502",
+        "page_title":  "Ribbonista様　Webサイト｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p2516/",
+        "local_route":  "/work/p2516",
+        "page_title":  "リベラ電子株式会社様 コーポレートサイト｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p2535/",
+        "local_route":  "/work/p2535",
+        "page_title":  "株式会社ユニホー様オウンドメディア　住まい研究室｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p2715/",
+        "local_route":  "/work/p2715",
+        "page_title":  "永森建設株式会社様　「レフィーノ」サービスサイト｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p2969",
+        "local_route":  "/work/p2969",
+        "page_title":  "ASNOVA VIETNAM｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p2969/",
+        "local_route":  "/work/p2969",
+        "page_title":  "ASNOVA VIETNAM｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p2982/",
+        "local_route":  "/work/p2982",
+        "page_title":  "My Sophia Shopping｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p2989/",
+        "local_route":  "/work/p2989",
+        "page_title":  "白川郷 城山館｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p2999/",
+        "local_route":  "/work/p2999",
+        "page_title":  "Carafe Studio｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p3001/",
+        "local_route":  "/work/p3001",
+        "page_title":  "JUMP LAB｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p3003/",
+        "local_route":  "/work/p3003",
+        "page_title":  "Mokumosi Design Studio｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p3059/",
+        "local_route":  "/work/p3059",
+        "page_title":  "まきやす様 e-きものレンタル｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p3101/",
+        "local_route":  "/work/p3101",
+        "page_title":  "テックフォーライフ株式会社様｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p3114/",
+        "local_route":  "/work/p3114",
+        "page_title":  "Webデザイン 、ホームページデザイン参考サイト A-Gallery｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p3190/",
+        "local_route":  "/work/p3190",
+        "page_title":  "弥富ホテルNUQU(ヌク)｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p3197/",
+        "local_route":  "/work/p3197",
+        "page_title":  "東海廣告株式会社｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p3204/",
+        "local_route":  "/work/p3204",
+        "page_title":  "ALIVE VIETNAMのLP｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p3265/",
+        "local_route":  "/work/p3265",
+        "page_title":  "自遊人様「信州発酵研究所」｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p3443/",
+        "local_route":  "/work/p3443",
+        "page_title":  "AIライブ翻訳アプリ開発｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p488/",
+        "local_route":  "/work/p488",
+        "page_title":  "source store 様　ECサイト｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p555/",
+        "local_route":  "/work/p555",
+        "page_title":  "株式会社ジオット 様　コーポレートサイト｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p646/",
+        "local_route":  "/work/p646",
+        "page_title":  "ニケンハウジング様｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p671/",
+        "local_route":  "/work/p671",
+        "page_title":  "Coding ALIVE｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p686",
+        "local_route":  "/work/p686",
+        "page_title":  "Rohto Vietnam様 YAKUZEN Webサイト｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p686/",
+        "local_route":  "/work/p686",
+        "page_title":  "Rohto Vietnam様 YAKUZEN Webサイト｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p697/",
+        "local_route":  "/work/p697",
+        "page_title":  "ライフデザインズ｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p707/",
+        "local_route":  "/work/p707",
+        "page_title":  "富士印刷株式会社 様｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p726/",
+        "local_route":  "/work/p726",
+        "page_title":  "株式会社フジナ 様｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p734/",
+        "local_route":  "/work/p734",
+        "page_title":  "カルペディエム名古屋 様｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p745/",
+        "local_route":  "/work/p745",
+        "page_title":  "ユウ薬品株式会社 様｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p753/",
+        "local_route":  "/work/p753",
+        "page_title":  "A・P・S 株式会社 様｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p785/",
+        "local_route":  "/work/p785",
+        "page_title":  "高原紙店 様  パピエボ ECサイト｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p827/",
+        "local_route":  "/work/p827",
+        "page_title":  "レコードショップZoo様｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/p972/",
+        "local_route":  "/work/p972",
+        "page_title":  "CRUSH WOLF様 ECサイト｜コーディング、Web開発の外注、代行ならコーディングアライブ",
+        "page_type":  "detail",
+        "parent_page":  "/work/",
+        "template_used":  "work-detail"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/page/2/",
+        "local_route":  "/work/page/2",
+        "page_title":  "コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/page/3/",
+        "local_route":  "/work/page/3",
+        "page_title":  "コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/page/4/",
+        "local_route":  "/work/page/4",
+        "page_title":  "コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/page/5/",
+        "local_route":  "/work/page/5",
+        "page_title":  "コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/page/6/",
+        "local_route":  "/work/page/6",
+        "page_title":  "コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/page/7/",
+        "local_route":  "/work/page/7",
+        "page_title":  "コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/pardot/",
+        "local_route":  "/work/pardot",
+        "page_title":  "Salesforce Pardotコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/pardot/page/2/",
+        "local_route":  "/work/pardot/page/2",
+        "page_title":  "Salesforce Pardotコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/pardot/page/3/",
+        "local_route":  "/work/pardot/page/3",
+        "page_title":  "Salesforce Pardotコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/pardot/page/4/",
+        "local_route":  "/work/pardot/page/4",
+        "page_title":  "Salesforce Pardotコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/react-nextjs/",
+        "local_route":  "/work/react-nextjs",
+        "page_title":  "React / Next.jsコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/react-nextjs/page/2/",
+        "local_route":  "/work/react-nextjs/page/2",
+        "page_title":  "React / Next.jsコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/requirement_definition/",
+        "local_route":  "/work/requirement_definition",
+        "page_title":  "要件定義・PM代行コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/requirement_definition/page/2/",
+        "local_route":  "/work/requirement_definition/page/2",
+        "page_title":  "要件定義・PM代行コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/requirement_definition/page/3/",
+        "local_route":  "/work/requirement_definition/page/3",
+        "page_title":  "要件定義・PM代行コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/requirement_definition/page/4/",
+        "local_route":  "/work/requirement_definition/page/4",
+        "page_title":  "要件定義・PM代行コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/salescloud/",
+        "local_route":  "/work/salescloud",
+        "page_title":  "セールスクラウドコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/salescloud/page/2/",
+        "local_route":  "/work/salescloud/page/2",
+        "page_title":  "セールスクラウドコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/salescloud/page/3/",
+        "local_route":  "/work/salescloud/page/3",
+        "page_title":  "セールスクラウドコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/salescloud/page/4/",
+        "local_route":  "/work/salescloud/page/4",
+        "page_title":  "セールスクラウドコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/server/",
+        "local_route":  "/work/server",
+        "page_title":  "サーバー保守コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/server/page/2/",
+        "local_route":  "/work/server/page/2",
+        "page_title":  "サーバー保守コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/server/page/3/",
+        "local_route":  "/work/server/page/3",
+        "page_title":  "サーバー保守コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/server/page/4/",
+        "local_route":  "/work/server/page/4",
+        "page_title":  "サーバー保守コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/shopify/",
+        "local_route":  "/work/shopify",
+        "page_title":  "Shopifyコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/shopify/page/2/",
+        "local_route":  "/work/shopify/page/2",
+        "page_title":  "Shopifyコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/shopify/page/3/",
+        "local_route":  "/work/shopify/page/3",
+        "page_title":  "Shopifyコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/shopify/page/4/",
+        "local_route":  "/work/shopify/page/4",
+        "page_title":  "Shopifyコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/site-speed/",
+        "local_route":  "/work/site-speed",
+        "page_title":  "サイトスピード改善コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/site-speed/page/2/",
+        "local_route":  "/work/site-speed/page/2",
+        "page_title":  "サイトスピード改善コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/site-speed/page/3/",
+        "local_route":  "/work/site-speed/page/3",
+        "page_title":  "サイトスピード改善コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/site-speed/page/4/",
+        "local_route":  "/work/site-speed/page/4",
+        "page_title":  "サイトスピード改善コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/stripe/",
+        "local_route":  "/work/stripe",
+        "page_title":  "Stripe API連携コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/translation/",
+        "local_route":  "/work/translation",
+        "page_title":  "翻訳業務コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/translation/page/2/",
+        "local_route":  "/work/translation/page/2",
+        "page_title":  "翻訳業務コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/translation/page/3/",
+        "local_route":  "/work/translation/page/3",
+        "page_title":  "翻訳業務コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/translation/page/4/",
+        "local_route":  "/work/translation/page/4",
+        "page_title":  "翻訳業務コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/web-anime/",
+        "local_route":  "/work/web-anime",
+        "page_title":  "Webアニメーションコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/web-anime/page/2/",
+        "local_route":  "/work/web-anime/page/2",
+        "page_title":  "Webアニメーションコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/web-anime/page/3/",
+        "local_route":  "/work/web-anime/page/3",
+        "page_title":  "Webアニメーションコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/web-anime/page/4/",
+        "local_route":  "/work/web-anime/page/4",
+        "page_title":  "Webアニメーションコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/web-site/",
+        "local_route":  "/work/web-site",
+        "page_title":  "コーポレートサイト制作コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/web-site/page/2/",
+        "local_route":  "/work/web-site/page/2",
+        "page_title":  "コーポレートサイト制作コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/web-site/page/3/",
+        "local_route":  "/work/web-site/page/3",
+        "page_title":  "コーポレートサイト制作コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/web-site/page/4/",
+        "local_route":  "/work/web-site/page/4",
+        "page_title":  "コーポレートサイト制作コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/web-site-design/",
+        "local_route":  "/work/web-site-design",
+        "page_title":  "Webデザイン制作コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/web-site-design/page/2/",
+        "local_route":  "/work/web-site-design/page/2",
+        "page_title":  "Webデザイン制作コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/web-site-design/page/3/",
+        "local_route":  "/work/web-site-design/page/3",
+        "page_title":  "Webデザイン制作コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/web-site-design/page/4/",
+        "local_route":  "/work/web-site-design/page/4",
+        "page_title":  "Webデザイン制作コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/web-site-design/page/5/",
+        "local_route":  "/work/web-site-design/page/5",
+        "page_title":  "Webデザイン制作コーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/wordpress/",
+        "local_route":  "/work/wordpress",
+        "page_title":  "WordPressコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/wordpress/page/2/",
+        "local_route":  "/work/wordpress/page/2",
+        "page_title":  "WordPressコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/wordpress/page/3/",
+        "local_route":  "/work/wordpress/page/3",
+        "page_title":  "WordPressコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/wordpress/page/4/",
+        "local_route":  "/work/wordpress/page/4",
+        "page_title":  "WordPressコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/work/wordpress/page/5/",
+        "local_route":  "/work/wordpress/page/5",
+        "page_title":  "WordPressコーディング実績｜コーディングアライブ",
+        "page_type":  "category",
+        "parent_page":  "/work/",
+        "template_used":  "work-category"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/workcat/colorme/",
+        "local_route":  "/workcat/colorme",
+        "page_title":  "コーディング外注、代行ならコーディングアライブ｜LP、ワードプレス構築、ECサイト制作の実績多数",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/workcat/makeshop/",
+        "local_route":  "/workcat/makeshop",
+        "page_title":  "コーディング外注、代行ならコーディングアライブ｜LP、ワードプレス構築、ECサイト制作の実績多数",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/workcat/shopify/",
+        "local_route":  "/workcat/shopify",
+        "page_title":  "コーディング外注、代行ならコーディングアライブ｜LP、ワードプレス構築、ECサイト制作の実績多数",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/workcat/web-anime/",
+        "local_route":  "/workcat/web-anime",
+        "page_title":  "コーディング外注、代行ならコーディングアライブ｜LP、ワードプレス構築、ECサイト制作の実績多数",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/workcat/web-site-desgin/",
+        "local_route":  "/workcat/web-site-desgin",
+        "page_title":  "コーディング外注、代行ならコーディングアライブ｜LP、ワードプレス構築、ECサイト制作の実績多数",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    },
+    {
+        "source_url":  "https://coding-alive.jp/workcat/wordpress/",
+        "local_route":  "/workcat/wordpress",
+        "page_title":  "コーディング外注、代行ならコーディングアライブ｜LP、ワードプレス構築、ECサイト制作の実績多数",
+        "page_type":  "static",
+        "parent_page":  "/",
+        "template_used":  "static-page"
+    }
+]
