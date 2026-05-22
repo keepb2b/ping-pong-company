@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { ContactForm } from '@/components/contact/ContactForm';
 import { WorldOfNumbers } from '@/components/animation/WorldOfNumbers';
+import { ScrollSection } from '@/components/motion/ScrollSection';
 import { feeInfo, strengths, faqPreview, companyInfo } from '@/data/static-content';
 import type { PageData } from '@/lib/types';
 
@@ -13,17 +14,20 @@ export function StaticPages({ page }: { page: PageData }) {
 
   if (slug === 'our-strength') {
     return (
-      <div className="space-y-16">
-        {strengths.map((s) => (
-          <div key={s.reason} className="grid gap-8 md:grid-cols-2 md:items-center">
-            <div className="aspect-[5/3] rounded-lg bg-gradient-to-br from-brand-blue/10 to-surface" />
-            <div>
-              <p className="text-sm font-bold text-brand-orange">{s.reason}</p>
-              <h2 className="mt-2 text-xl font-bold">{s.title}</h2>
-              <p className="mt-4 text-muted">{s.body}</p>
+      <div className="space-y-0">
+        {strengths.map((s, i) => (
+          <ScrollSection key={s.reason} sectionIndex={i + 1} className="py-10">
+            <div className="grid gap-8 md:grid-cols-2 md:items-center">
+              <div className="aspect-[5/3] rounded-lg bg-gradient-to-br from-brand-blue/10 to-surface" />
+              <div>
+                <p className="text-sm font-bold text-brand-orange">{s.reason}</p>
+                <h2 className="mt-2 text-xl font-bold">{s.title}</h2>
+                <p className="mt-4 text-muted">{s.body}</p>
+              </div>
             </div>
-          </div>
+          </ScrollSection>
         ))}
+        <ScrollSection sectionIndex={0} disableOverlay className="rounded-xl">
         <WorldOfNumbers className="rounded-xl bg-surface">
           <div className="container-site py-16 text-center">
             <h2 className="section-en-title">Performance</h2>
@@ -46,12 +50,13 @@ export function StaticPages({ page }: { page: PageData }) {
             </div>
           </div>
         </WorldOfNumbers>
+        </ScrollSection>
       </div>
     );
   }
 
   if (slug === 'services') {
-    const services = [
+    const services: [string, string][] = [
       ['WordPress', 'WordPress構築は最多のCMS開発実績。複雑なカスタマイズも対応。'],
       ['Shopify', 'Shopifyカスタマイズの多数の実績があります。'],
       ['React / Next.js', '最新フレームワークによる高速・SEOに強いサイト構築。'],
@@ -60,12 +65,17 @@ export function StaticPages({ page }: { page: PageData }) {
       ['要件定義・PM代行', '開発周りの要件定義・PM代行が可能です。'],
     ];
     return (
-      <div className="grid gap-8 md:grid-cols-2">
-        {services.map(([title, body]) => (
-          <div key={title} id={title.toLowerCase().replace(/\s+/g, '-')} className="rounded-lg border border-slate-200 p-6">
-            <h2 className="text-lg font-bold text-brand-blue">{title}</h2>
-            <p className="mt-3 text-sm text-muted">{body}</p>
-          </div>
+      <div className="space-y-0">
+        {services.map(([title, body], i) => (
+          <ScrollSection key={title} sectionIndex={i} className="py-6">
+            <div
+              id={title.toLowerCase().replace(/\s+/g, '-')}
+              className="rounded-lg border border-slate-200 bg-white p-6"
+            >
+              <h2 className="text-lg font-bold text-brand-blue">{title}</h2>
+              <p className="mt-3 text-sm text-muted">{body}</p>
+            </div>
+          </ScrollSection>
         ))}
       </div>
     );

@@ -4,22 +4,24 @@ import type { CardItem } from '@/lib/types';
 
 export function ArchiveCard({ item, type }: { item: CardItem; type: 'work' | 'blog' | 'animation' | 'staff' }) {
   const aspect = type === 'animation' ? 'aspect-video' : 'aspect-[750/435]';
+  const hideImage = type === 'blog' || type === 'work';
 
   return (
     <article className="card-hover group overflow-hidden rounded-lg border border-slate-200 bg-white shadow-sm">
       <Link href={item.href} className="block">
-        <div className={`relative ${aspect} overflow-hidden bg-surface`}>
-          {item.image ? (
-            <Image
-              src={item.image}
-              alt=""
-              fill
-              className="object-cover transition duration-500 group-hover:scale-105"
-              sizes="(max-width:768px) 100vw, 33vw"
-            />
-          ) : (
-            <div className="flex h-full items-center justify-center text-xs text-muted">No image</div>
-          )}
+        <div className={`relative ${aspect} shrink-0 overflow-hidden bg-surface`} aria-hidden={hideImage}>
+          {!hideImage &&
+            (item.image ? (
+              <Image
+                src={item.image}
+                alt=""
+                fill
+                className="object-cover transition duration-500 group-hover:scale-105"
+                sizes="(max-width:768px) 100vw, 33vw"
+              />
+            ) : (
+              <div className="flex h-full items-center justify-center text-xs text-muted">No image</div>
+            ))}
         </div>
         <div className="p-4">
           {item.date && <time className="text-xs text-muted">{item.date}</time>}

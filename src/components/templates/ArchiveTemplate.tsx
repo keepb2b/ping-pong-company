@@ -2,7 +2,7 @@ import Link from 'next/link';
 import { ArchiveCard } from '@/components/cards/ArchiveCard';
 import { Breadcrumb } from '@/components/layout/Breadcrumb';
 import { PageHero } from '@/components/layout/PageHero';
-import { Reveal } from '@/components/motion/Reveal';
+import { ScrollSection } from '@/components/motion/ScrollSection';
 import type { PageData } from '@/lib/types';
 
 const HERO_MAP = {
@@ -42,7 +42,7 @@ export function ArchiveTemplate({
           ...(page.route.includes('/page/') ? [{ label: `ページ ${page.route.split('/').pop()}` }] : []),
         ]}
       />
-      <section className="py-12">
+      <ScrollSection sectionIndex={0} className="py-12">
         <div className="container-site">
           <div className="mb-8 flex flex-wrap gap-2 border-b border-slate-200 pb-4">
             {filters.slice(0, 12).map((f) => (
@@ -59,18 +59,16 @@ export function ArchiveTemplate({
               </Link>
             ))}
           </div>
-          <Reveal>
-            <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-              {page.cards.map((card) => (
-                <ArchiveCard key={card.href} item={card} type={kind} />
-              ))}
-            </div>
-          </Reveal>
+          <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+            {page.cards.map((card) => (
+              <ArchiveCard key={card.href} item={card} type={kind} />
+            ))}
+          </div>
           {page.cards.length === 0 && (
             <p className="text-center text-muted">コンテンツを読み込んでいます…</p>
           )}
         </div>
-      </section>
+      </ScrollSection>
     </>
   );
 }

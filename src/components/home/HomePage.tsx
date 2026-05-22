@@ -3,6 +3,7 @@
 import Link from 'next/link';
 import { motion } from 'framer-motion';
 import { Reveal } from '@/components/motion/Reveal';
+import { ScrollSection } from '@/components/motion/ScrollSection';
 import { HeroCylinderTunnel } from '@/components/animation/HeroCylinderTunnel';
 import { WorldOfNumbers } from '@/components/animation/WorldOfNumbers';
 import { ArchiveCard } from '@/components/cards/ArchiveCard';
@@ -34,7 +35,10 @@ export function HomePage({
   return (
     <main>
       {/* Hero */}
-      <section className="relative overflow-hidden bg-gradient-to-b from-[#e8f4fc] via-white to-white pb-20 pt-12 md:pt-20">
+      <ScrollSection
+        sectionIndex={0}
+        className="relative overflow-hidden bg-gradient-to-b from-[#e8f4fc] via-white to-white pb-20 pt-12 md:pt-20"
+      >
         <div className="container-site grid items-center gap-10 lg:grid-cols-2">
           <Reveal>
             <p className="text-sm font-medium text-muted">
@@ -63,10 +67,10 @@ export function HomePage({
             <HeroCylinderTunnel />
           </Reveal>
         </div>
-      </section>
+      </ScrollSection>
 
       {/* Performance / World of Numbers */}
-      <WorldOfNumbers>
+      <WorldOfNumbers className="min-h-[420px] bg-surface">
         <div className="container-site py-16">
           <Reveal>
             <h2 className="section-en-title text-center">Performance</h2>
@@ -98,7 +102,7 @@ export function HomePage({
       </WorldOfNumbers>
 
       {/* Concerns */}
-      <section className="bg-surface py-16">
+      <ScrollSection sectionIndex={2} className="bg-surface py-16">
         <div className="container-site">
           <Reveal>
             <h2 className="section-en-title">What&apos;s Your Concern</h2>
@@ -119,10 +123,10 @@ export function HomePage({
             ))}
           </ul>
         </div>
-      </section>
+      </ScrollSection>
 
       {/* Reasons */}
-      <section className="py-16">
+      <ScrollSection sectionIndex={3} className="py-16">
         <div className="container-site">
           <Reveal>
             <h2 className="section-en-title">Reasons to be chosen</h2>
@@ -142,10 +146,10 @@ export function HomePage({
             </Link>
           </div>
         </div>
-      </section>
+      </ScrollSection>
 
       {/* Services */}
-      <section className="bg-brand-blue py-16 text-white">
+      <ScrollSection sectionIndex={4} tone="blue" className="bg-brand-blue py-16 text-white">
         <div className="container-site">
           <Reveal>
             <h2 className="font-[family-name:var(--font-barlow)] text-4xl font-semibold italic">Services</h2>
@@ -169,10 +173,10 @@ export function HomePage({
             </Link>
           </div>
         </div>
-      </section>
+      </ScrollSection>
 
       {/* Fee preview */}
-      <section className="py-16">
+      <ScrollSection sectionIndex={5} className="py-16">
         <div className="container-site text-center">
           <h2 className="section-en-title">Basic Charge</h2>
           <p className="section-ja-title">基本料金</p>
@@ -183,10 +187,10 @@ export function HomePage({
             詳細な料金やオプションを読む
           </Link>
         </div>
-      </section>
+      </ScrollSection>
 
       {/* Works */}
-      <section className="bg-surface py-16">
+      <ScrollSection sectionIndex={6} className="bg-surface py-16">
         <div className="container-site">
           <h2 className="section-en-title">Development cases</h2>
           <p className="section-ja-title">開発事例</p>
@@ -201,10 +205,10 @@ export function HomePage({
             </Link>
           </div>
         </div>
-      </section>
+      </ScrollSection>
 
       {/* Animation */}
-      <section className="py-16">
+      <ScrollSection sectionIndex={7} className="py-16">
         <div className="container-site">
           <h2 className="section-en-title">Animations</h2>
           <p className="section-ja-title">アニメーションサンプル</p>
@@ -219,10 +223,10 @@ export function HomePage({
             </Link>
           </div>
         </div>
-      </section>
+      </ScrollSection>
 
       {/* User voice */}
-      <section className="bg-surface py-16">
+      <ScrollSection sectionIndex={8} className="bg-surface py-16">
         <div className="container-site">
           <h2 className="section-en-title">User Voice</h2>
           <p className="section-ja-title">お客様の声</p>
@@ -235,10 +239,10 @@ export function HomePage({
             ))}
           </div>
         </div>
-      </section>
+      </ScrollSection>
 
       {/* FAQ preview */}
-      <section className="py-16">
+      <ScrollSection sectionIndex={9} className="py-16">
         <div className="container-site max-w-3xl">
           <h2 className="section-en-title text-center">FAQ</h2>
           <p className="section-ja-title text-center">よくあるご質問</p>
@@ -256,10 +260,10 @@ export function HomePage({
             </Link>
           </div>
         </div>
-      </section>
+      </ScrollSection>
 
       {/* Blog */}
-      <section className="bg-surface py-16">
+      <ScrollSection sectionIndex={10} className="bg-surface py-16">
         <div className="container-site">
           <h2 className="section-en-title">Development blog</h2>
           <p className="section-ja-title">開発ブログ</p>
@@ -274,10 +278,10 @@ export function HomePage({
             </Link>
           </div>
         </div>
-      </section>
+      </ScrollSection>
 
       {/* Who we are */}
-      <section className="py-16">
+      <ScrollSection sectionIndex={11} className="py-16">
         <div className="container-site grid gap-10 md:grid-cols-2 md:items-center">
           <div>
             <h2 className="section-en-title">Who We Are</h2>
@@ -292,10 +296,10 @@ export function HomePage({
           </div>
           <div className="aspect-video rounded-xl bg-gradient-to-br from-brand-blue/20 to-surface" />
         </div>
-      </section>
+      </ScrollSection>
 
       {/* CTA */}
-      <section className="bg-brand-blue py-16 text-center text-white">
+      <ScrollSection sectionIndex={12} tone="blue" className="bg-brand-blue py-16 text-center text-white">
         <div className="container-site">
           <h2 className="text-2xl font-bold">まずはお気軽にご相談ください</h2>
           <p className="mt-3 text-sm text-white/80">エンジニア経験者がお受けします</p>
@@ -303,7 +307,7 @@ export function HomePage({
             ご相談・お見積
           </Link>
         </div>
-      </section>
+      </ScrollSection>
     </main>
   );
 }

@@ -1,6 +1,6 @@
 import { PageHero } from '@/components/layout/PageHero';
 import { Breadcrumb } from '@/components/layout/Breadcrumb';
-import { Reveal } from '@/components/motion/Reveal';
+import { ScrollSection } from '@/components/motion/ScrollSection';
 import type { PageData } from '@/lib/types';
 
 const STATIC_HERO: Record<string, { en: string; ja: string }> = {
@@ -27,9 +27,13 @@ export function StaticPageTemplate({
     <>
       <PageHero en={hero.en} ja={hero.ja} />
       <Breadcrumb items={[{ label: 'HOME', href: '/' }, { label: hero.ja }]} />
-      <Reveal>
+      {['our-strength', 'services'].includes(slug) ? (
         <div className="container-site py-12">{children}</div>
-      </Reveal>
+      ) : (
+        <ScrollSection sectionIndex={0} className="py-12">
+          <div className="container-site">{children}</div>
+        </ScrollSection>
+      )}
     </>
   );
 }
