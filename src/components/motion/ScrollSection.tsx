@@ -236,7 +236,7 @@ export function ScrollSection({
       timeline = runEffect('fade-rise', section, content, panels);
     }
 
-    if (timeline.scrollTrigger && ScrollTrigger.isInViewport(section, 0.2)) {
+    if (timeline && timeline.scrollTrigger && ScrollTrigger.isInViewport(section, 0.2)) {
       timeline.progress(1);
     }
 
